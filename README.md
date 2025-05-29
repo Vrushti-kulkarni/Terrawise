@@ -25,5 +25,6 @@ Stay motivated with challenges, rewards, and progress tracking that make sustain
 
 ![Terrawise img 2](https://github.com/user-attachments/assets/ac8655d8-0cc0-428d-8c55-e39969575698)
 
-![Terrawise img 1](https://github.com/user-attachments/assets/eaf558b1-aea7-4f64-b860-50ac71ae1963)
+![Terrawise img 3](https://github.com/user-attachments/assets/442e7868-5a56-4121-883f-f15222341b71)
+
 
