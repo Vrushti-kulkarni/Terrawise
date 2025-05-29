@@ -19,6 +19,11 @@ Stay motivated with challenges, rewards, and progress tracking that make sustain
 
 
 🌟Sample UI - prototyping stage  
-![Terrawise img 3](https://github.com/user-attachments/assets/86a97bf3-1f8a-4c2f-b46b-c38751a7b519)
-![Terrawise img 2](https://github.com/user-attachments/assets/ac8655d8-0cc0-428d-8c55-e39969575698)
+
+
 ![Terrawise img 1](https://github.com/user-attachments/assets/eaf558b1-aea7-4f64-b860-50ac71ae1963)
+
+![Terrawise img 2](https://github.com/user-attachments/assets/ac8655d8-0cc0-428d-8c55-e39969575698)
+
+![Terrawise img 1](https://github.com/user-attachments/assets/eaf558b1-aea7-4f64-b860-50ac71ae1963)
+
